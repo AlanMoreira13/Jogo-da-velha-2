@@ -26,17 +26,18 @@ for (let i = 0; i < boxes.length; i++) {
       if (player1 == player2) {
         player1++;
 
-        if (secondPlayer == "ai-player") {
-          // função executar jogada
-          computerPlay();
-          player2++;
-        }
+        setTimeout(() => {
+          if (secondPlayer == "ai-player") {
+            // função executar jogada
+            computerPlay();
+            player2++;
+          }
+          // checa quem venceu
+          checkWinCondition();
+        }, 500);
       } else {
         player2++;
       }
-
-      // checa quem venceu
-      checkWinCondition();
     }
   });
 }
