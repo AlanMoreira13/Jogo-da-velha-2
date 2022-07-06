@@ -2,7 +2,8 @@
 <hr>
 
 ### Aplicação que desenvolvi junto ao professor <em>Matheus Battisti</em> no curso "<a href="https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/"><em>JavaScript do básico ao avançado (c/ Node.js e projetos)</em></a>"!
- Pude por em prática meu aprendizado em Javascript, HTML e CSS, buscando aumentar e aprimorar meus conhecimentos na área 💪🏽👨🏽‍💻
+ Pude por em prática meu aprendizado em Javascript, HTML e CSS, buscando aumentar e aprimorar meus conhecimentos na área 💪🏽👨🏽‍💻´<br>
+   <a href="https://alanmoreira13.github.io/Jogo-da-velha-2/">🔗 Link da aplicação 🎮👵🏽</a>
  #
  ## <em>Segue abaixo um Gif e imagens ilustrando a aplicação</em> <br>
  
