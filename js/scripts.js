@@ -9,7 +9,6 @@ let secondPlayer;
 // contador de jogadas
 let player1 = 0;
 let player2 = 0;
-
 // adicionando o evento de click aos boxes
 for (let i = 0; i < boxes.length; i++) {
   // quando alguém clica na caixa
@@ -26,19 +25,17 @@ for (let i = 0; i < boxes.length; i++) {
       if (player1 == player2) {
         player1++;
 
-        setTimeout(() => {
-          if (secondPlayer == "ai-player") {
-            // função executar jogada
-            computerPlay();
-            player2++;
-          }
-          // checa quem venceu
-          checkWinCondition();
-        }, 500);
+        if (secondPlayer == "ai-player") {
+          // função executar jogada
+          computerPlay();
+          player2++;
+        }
+        // checa quem venceu
       } else {
         player2++;
       }
     }
+    checkWinCondition();
   });
 }
 
