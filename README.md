@@ -4,10 +4,14 @@
 ### Aplicação que desenvolvi junto ao professor <em>Matheus Battisti</em> no curso "<a href="https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/"><em>JavaScript do básico ao avançado (c/ Node.js e projetos)</em></a>"!
  Pude por em prática meu aprendizado em Javascript, HTML e CSS, buscando aumentar e aprimorar meus conhecimentos na área 💪🏽👨🏽‍💻
  #
- # <em>Segue abaixo um Gif e imagens ilustrando a aplicação</em> <br>
+ ## <em>Segue abaixo um Gif e imagens ilustrando a aplicação</em> <br>
  
  ### Este Gif demonstra uma partida com 2 Players ⤵
  ![jogo da velha](https://user-images.githubusercontent.com/88805398/177626393-8deb2922-5002-48c2-9bd8-195c664f1012.gif)
+ 
+  ### Este Gif demonstra uma partida contra a Inteligência Artificial ⤵
+  ![jogo da velha2](https://user-images.githubusercontent.com/88805398/177629592-c035e3e3-6b0b-41ca-9792-fbc234aaaafa.gif)
+
 
  
  ### Tela inicial (Opção de 2 Players ou jogar contra Inteligência Artificial) ⤵ 
